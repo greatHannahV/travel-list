@@ -40,7 +40,7 @@ h1 {
   text-transform: uppercase;
   font-weight: 400;
   word-spacing: 30px;
-  letter-spacing: -5px;
+  letter-spacing: -3px;
   padding: 2.4rem 0;
 }
 
@@ -135,6 +135,6 @@ input[type='checkbox'] {
 .stats {
   background-color: #f4fbf9;
   text-align: center;
-  font-weight: 700;
+  font-weight: 600;
   padding: 3.2rem 0;
 }
